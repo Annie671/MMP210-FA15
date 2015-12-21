@@ -91,14 +91,6 @@ function windowShapes(){
     var rec3Height = 80;
     rect(x-125,y+360,rec3Width,rec3Height);
 
-
-
-
-
-
-
-
-
 }//end windowShapes
 
 function loops(){
