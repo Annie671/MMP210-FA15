@@ -1,0 +1,22 @@
+{
+"game": [
+{
+	"level": "Beginner",
+	"name": [
+    "Three in a row",
+    "Four in a row"
+	]
+
+},
+
+{
+	"level": "Expert",
+	"name":[
+	"Five in a row",
+	"Six in a row"
+	]
+
+
+}
+]
+}
